@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Sriram Yeluri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  - sriram.yeluri@outlook.com
-  - [Linkedin](https://www.linkedin.com/in/sriram-yeluri-53081747/)
 
 
 I am working as a DevOps platform engineer , having good knowledge and working experience in analysis, design,
@@ -12,13 +6,12 @@ development, automation, configuration management, infrastructure provisioning a
 
 * Linux system administration.
 * Infrastructure and application provisioning.
-* Design and implementation of automated solutions.
-* Experience with containers and microservices using docker and kubernetes.
-* Onprem to cloud migrations (AWS, Azure).
-* Strong ability to communicate effectively in an international environment.
-* Experience deploying or managing large scale distributed Linux environments.
-* Mindset of continuous improvement of the service and way of working.
+* Solution design for cloud migrations.
+* Experience in the design and implementation of automated solutions.
+* Onpremise to cloud migrations (AWS, Azure)
+* Mindset of continuous improvement in the way of working
 * Mind-set to automate and avoid repetitive tasks.
+
 
 ### Certifications
 
@@ -35,11 +28,13 @@ Docker, Kubernetes
 Programming : Python, golang, c, c++  
 SCM : Git  
 Scripting : Bash shell, power shell  
-Monitoring : Appdynamics, Splunk  
 Tooling Administration : Atlassian Bitbucket data center, Cloudbees Jenkins Platform, Nexus repository Manager, Nexus Lifecycle,
 Sonarqube, Fortify, OpenLDAP.
 
-
+- 👀 I’m interested in microservices, cloud technologies, kubernetes, linux distributions, golang
+- 📫 How to reach me ...
+  - sriram.yeluri@outlook.com
+  - [Linkedin](https://www.linkedin.com/in/sriram-yeluri-53081747/)
 
 <!---
 sriram-yeluri/sriram-yeluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
