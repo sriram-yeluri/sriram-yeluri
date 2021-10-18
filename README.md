@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Sriram Yeluri
 
 
-I am working as a DevOps platform engineer , having good knowledge and working experience in analysis, design,
-development, automation, configuration management, infrastructure provisioning and technical support.
+I am working as a DevOps platform engineer , having good knowledge and work experience in analysis, design,
+development, automation, infrastructure provisioning, microservices, kubernetes.
 
+### Key Strengths
 * Linux system administration.
 * Infrastructure and application provisioning.
 * Solution design for cloud migrations.
@@ -30,6 +31,22 @@ SCM : Git
 Scripting : Bash shell, power shell  
 Tooling Administration : Atlassian Bitbucket data center, Cloudbees Jenkins Platform, Nexus repository Manager, Nexus Lifecycle,
 Sonarqube, Fortify, OpenLDAP.
+
+### Experience
+
+* Migrate PrismaCloud(Twistlock) from AWS to Azure (InProgress)
+* Migration of Nexus Lifecycle from On-premise to Azure.
+* Migration of SonarQube Datacenter setup from on-premise to Azure.
+* Development of micro services and deploying to Azure Kubernetes services (AKS).
+* Managing the CI tooling infrastructure at scale. (2000+ Developers)
+* Ensure security compliance, release management and change process in the tooling/application lifecycle management.
+* Atlassian Bitbucket data-center infrastructure setup and automated the provisioning using Ansible.
+* Setup of RBAC using OpenLDAP and integrated with all the CI tools.
+* Designed and developed application onboarding.
+* Automated the provisioning of the build machines for CI orchestration.
+* Setup of Fortify static scanning infrastructure and automated the onboarding process.
+* Migration of Fortify from on-premise to AWS.
+
 
 - 👀 I’m interested in microservices, cloud technologies, kubernetes, linux distributions, golang
 - 📫 How to reach me ...
