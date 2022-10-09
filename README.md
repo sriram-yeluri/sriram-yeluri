@@ -4,8 +4,9 @@
 I am s software engineer having more than 16 years of experience as a technology lead, solution designer, solution architect.
 
 
-### Key Strengths
+### Key Strengths and skills
 * Linux system administration.
+* Kubernetes (AKS)
 * Infrastructure provisioning.
 * Solution design for cloud migrations.
 * Experience in the design and implementation of automated solutions.
