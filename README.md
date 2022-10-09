@@ -1,7 +1,5 @@
-- Hello, I’m @Sriram Yeluri
 
-
-I am s software engineer having more than 16 years of experience as a technology lead, solution designer, solution architect.
+I am Sriram Yeluri having more than 16 years of experience as a technology lead, solution designer, solution architect.
 
 
 ### Key Strengths and skills
