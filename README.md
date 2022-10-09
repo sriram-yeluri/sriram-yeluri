@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sriram Yeluri
+- Hello, I’m @Sriram Yeluri
 
 
 I am s software engineer having more than 16 years of experience as a technology lead, solution designer, solution architect.
