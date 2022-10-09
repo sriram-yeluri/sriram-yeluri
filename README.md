@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sriram Yeluri
 
 
-I am working as a DevOps platform engineer. I have more than 15 years of hands on technical experience with 7 years as a DevOps Platform and Automation engineer, and 8 years in technical lead roles. Majority of the projects i worked are from Banking and Telecom customers.
+I am s software engineer having more than 16 years of experience as a technology lead, solution designer, solution architect.
 
 
 ### Key Strengths
