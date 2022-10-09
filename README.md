@@ -6,13 +6,18 @@ I am s software engineer having more than 16 years of experience as a technology
 
 ### Key Strengths and skills
 * Linux system administration.
-* Kubernetes (AKS)
+* Kubernetes (AKS), Docker.
+* Azure DevOps.
+* Amazon Web Service (AWS).
 * Infrastructure provisioning.
 * Solution design for cloud migrations.
 * Experience in the design and implementation of automated solutions.
-* Onpremise to cloud migrations (AWS, Azure)
-* Mindset of continuous improvement in the way of working
-* Mindset of automation and avoid repetitive tasks.
+* Onpremise to cloud migrations (AWS, Azure).
+* Aws to Azure Migrations.
+* Shell Scripting
+* Python Scripting
+* Golang
+* Ansible automation.
 
 <!---
 sriram-yeluri/sriram-yeluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
