@@ -4,18 +4,18 @@ I am Sriram Yeluri having more than 16 years of experience as a technology lead,
 
 ### Key Strengths and skills
 * Linux system administration.
-* Kubernetes (AKS), Docker.
+* Kubernetes (AKS), Docker, Helm
 * Azure DevOps.
 * Amazon Web Service (AWS).
-* Infrastructure provisioning.
+* Infrastructure as a code (IaC) , Terraform, Bicep.
 * Solution design for cloud migrations.
 * Experience in the design and implementation of automated solutions.
 * Onpremise to cloud migrations (AWS, Azure).
 * Aws to Azure Migrations.
 * Shell Scripting
-* Python Scripting
+* Python
 * Golang
-* Ansible automation.
+* Ansible
 
 <!---
 sriram-yeluri/sriram-yeluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
