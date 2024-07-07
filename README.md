@@ -1,21 +1,22 @@
 
-I am Sriram Yeluri having more than 18 years of experience in IT. Worked in multiple roles as a technology lead, platform engineer, solution designer, solution architect.
+I am Sriram Yeluri having more than 18 years of experience in IT. I worked in multiple roles as a technology lead, platform engineer, solution designer, solution architect.
 
 
 ### Key Strengths and skills
 * Linux system administration.
 * Kubernetes (AKS), Docker, Helm
 * Azure DevOps.
+* Microsoft Azure. 
 * Amazon Web Service (AWS).
 * Infrastructure as a code (IaC) , Terraform, Bicep.
 * Solution design for cloud migrations.
-* Experience in the design and implementation of automated solutions.
+* Experienced in the design and implementation of automated solutions.
 * Onpremise to cloud migrations (AWS, Azure).
 * Aws to Azure Migrations.
-* Shell Scripting
-* Python
-* Golang
-* Ansible
+* Shell Scripting.
+* Python.
+* Golang.
+* Ansible.
 
 <!---
 sriram-yeluri/sriram-yeluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
