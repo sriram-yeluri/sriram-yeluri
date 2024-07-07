@@ -3,16 +3,16 @@ I am Sriram Yeluri having more than 18 years of experience in IT. I worked in mu
 
 
 ### Key Strengths and skills
-* Linux system administration.
+* Solution design for cloud migrations.
+* Design of automated solutions and implementations.
+* Onpremise to cloud migrations (AWS, Azure).
+* Aws to Azure Migrations.
 * Kubernetes (AKS), Docker, Helm
 * Azure DevOps.
 * Microsoft Azure. 
 * Amazon Web Service (AWS).
 * Infrastructure as a code (IaC) , Terraform, Bicep.
-* Solution design for cloud migrations.
-* Experienced in the design and implementation of automated solutions.
-* Onpremise to cloud migrations (AWS, Azure).
-* Aws to Azure Migrations.
+* Linux system administration.
 * Shell Scripting.
 * Python.
 * Golang.
